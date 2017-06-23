@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='Checkers'/>
+        <page name='Chess'/>
+        <page name='Go'/>
+        <page name='Mancala'/>
+        <page name='Minesweeper'/>
+        <page name='Sudoku'/>
+        <page name='TicTacToe'/>
+        <page name='OtherStuff'/>
+    </pages>
+</playground>

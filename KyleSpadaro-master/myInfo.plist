@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dreams</key>
+	<dict>
+		<key>about</key>
+		<string>I have a big dream and objective in my life:
+   Use my creativity and my abilities to teach kids in my school how to code.
+
+   With this opportunity there will be more programmers in my school and we together there will be more student programmers in the world.</string>
+	</dict>
+	<key>interests</key>
+	<dict>
+		<key>about</key>
+		<string>3 things that I really love:
+  App Development, Music, and Writing.
+   When I joined the iOS development program in 2013, the app development interest started to grow on me. When I started playing the piano in 2006,  I realized that music is amazing. That’s why I play many instruments. I’ve always been a great writer. That’s why I have a high average in English every semester. Every teacher I’ve had since 1st grade has commented on my writing skills.</string>
+	</dict>
+	<key>projects</key>
+	<dict>
+		<key>lagometer</key>
+		<string>With this app you can view your device&apos;s lag in a simple interface.</string>
+		<key>kidpaint</key>
+		<string>Let your kids draw easily using KidPaint. Using a simple interface and a wide palette to draw with, your kids will love KidPaint.</string>
+	</dict>
+	<key>experiences</key>
+	<dict>
+		<key>about</key>
+		<string>In 2013, I got my first Mac and I immediately downloaded Xcode and registered for the iOS developer program, then a standalone program. In October 2013, I got a iPhone 5s, which I preferred over the iPhone 5c because of its processor and motion co-processor. That made it easier to test my apps. In December 2013, I made a simple speed-test app called Lagometer. I submitted it to the app store in March 2014, and since the app had a skeuomorphic design language (this is the language used from iOS 1 to iOS 6) instead of the flat language that Apple was pushing since iOS 7. I was discouraged, but not enough to stop developing altogether. I had heard on MacRumors that Apple might be introducing a new programming language at WWDC 14. I waited until June, and when I heard that Apple announced Swift, I immediately downloaded the Xcode beta and I’ve been using Swift ever since. In 2015, I got a iPhone 6s, and since Apple released Swift 2, I was able to make better apps with iOS 9. I also am a musician. I’ve been playing the piano since I was four, and since then, I’ve learned guitar, percussion, bass guitar, and cello. I was making electronic music on Logic Pro 9 until Logic Pro X came out, which is what I use today. I&apos;ve made just two completed apps since joining the program (not including this app) but many more ideas are either works in progress or in my head.</string>
+	</dict>
+	<key>background</key>
+	<dict>
+		<key>about</key>
+		<string>My biography went here -- I removed it in the GitHub version.</string>
+	</dict>
+	<key>me</key>
+	<dict>
+		<key>facebook</key>
+		<string>https://facebook.com/spadaroapps</string>
+		<key>introduction</key>
+		<string>Hi, I&apos;m Kyle</string>
+		<key>about</key>
+		<string>I am Kyle Spadaro</string>
+		<key>desc</key>
+		<string>App Developer &amp; Artist</string>
+		<key>git</key>
+		<string>https://github.com/kylespadaro</string>
+		<key>name</key>
+		<string>Kyle Spadaro</string>
+		<key>email</key>
+		<string>spadaromail@gmail.com</string>
+		<key>twitter</key>
+		<string>https://twitter.com/kylespadaro</string>
+	</dict>
+</dict>
+</plist>
